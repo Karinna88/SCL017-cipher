@@ -7,7 +7,7 @@
 
 /*imagen de fondo*/
 body {
-  background-image: url(../assets/images/fondo2.jpg);
+  background-image: url(assets/images/fondo2.jpg);
   background-color: hsl(320deg 10% 93% / 80%);
   background-blend-mode: soft-light;
   background-size: cover;
